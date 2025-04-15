@@ -1,2 +1,3 @@
 Commit new file
 i add some changes
+and again we do changes to check out git
